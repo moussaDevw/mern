@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background: saddlebrown;
+    display: block;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow:8px 8px 12px #aaa;
+    width: 100%;
+}
+.form-controle{
+    display: block;
+}
+
+label{
+    display: block;
+}
+input{
+    outline-color: brown;
+    background: none;
+}
+.btn{
+    width: 100%;
+}
